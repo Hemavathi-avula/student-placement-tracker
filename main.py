@@ -1,5 +1,3 @@
-import collections
-import collections
 class StudentProfile:
     platform = "KodNest"
     total_students = 0
